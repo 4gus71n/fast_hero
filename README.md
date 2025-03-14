@@ -9,5 +9,12 @@ Frankenstein project using KMM + Rust
 # Milestones
 
 :one: Setup the project so I can reuse a Composable view between Android, iOS, and Web.
-:two: Implement a Rust shared library so I can query an API in both Andorid and iOS
+
+:two: Implement a Rust shared library so I can query an API in both Andorid and iOS.
+
 :three: Get the Rust shared library to persist something through a SQLite DB.
+
+
+# Questions
+
+- Image loading in Composables? How do we handle it across Android/iOS.
